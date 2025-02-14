@@ -1,0 +1,15 @@
+C:\Users\evgen\source\repos\erpzoo\Inventory\bin\Debug\net8.0\Inventory.deps.json
+C:\Users\evgen\source\repos\erpzoo\Inventory\bin\Debug\net8.0\Inventory.dll
+C:\Users\evgen\source\repos\erpzoo\Inventory\bin\Debug\net8.0\Inventory.pdb
+C:\Users\evgen\source\repos\erpzoo\Inventory\bin\Debug\net8.0\Domain.dll
+C:\Users\evgen\source\repos\erpzoo\Inventory\bin\Debug\net8.0\Domain.pdb
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.csproj.AssemblyReference.cache
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.csproj.Up2Date
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.dll
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\refint\Inventory.dll
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\Inventory.pdb
+C:\Users\evgen\source\repos\erpzoo\Inventory\obj\Debug\net8.0\ref\Inventory.dll
