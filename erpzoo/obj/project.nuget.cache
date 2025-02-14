@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZeEIYudJnA82RVMwKRCfQ3gH/OUd2sbYrvVsifTnUHMb10EVqGiwo1YFvAqf7b+CTXT21W4MjF60q7EGdFRWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evgen\\source\\repos\\erpzoo\\erpzoo\\erpzoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evgen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
